@@ -3,9 +3,9 @@ p {
 }
 
 h1 {
-    text-align: center; 
+    text-align: center; background-color: black; width: 100%;  color: aliceblue;
 }
 
-img {
-    align-items: center;
+body {
+    background-color: #696969;
 }
