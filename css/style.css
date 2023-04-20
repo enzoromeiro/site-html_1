@@ -1,9 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
     background-color: #696969;
-    align-items: center;
 }
 
 .p-historia {
@@ -24,12 +22,12 @@ header {
 h2 {
     text-align: center; 
     text-decoration: underline;
-
 }
 
-div img {
-    border: solid 3px;
+.pack-img {
+    border: solid black 3px;
     width:  400px;
+    border-radius: 35px;
 }
 
 span {
